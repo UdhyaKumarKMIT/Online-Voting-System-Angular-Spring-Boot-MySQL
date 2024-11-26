@@ -1,5 +1,3 @@
-# Voting-Management-System-2.0
-
 E-votng System React SpringBoot Mysql
 ---
 
